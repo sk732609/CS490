@@ -36,7 +36,7 @@ switch ("$ans") {
     echo "professor";
 
     break;
-  case "student":
+  case "Student":
   header("location: student.html");
     echo "student";
      
